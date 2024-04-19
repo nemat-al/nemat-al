@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👋 It's Nemat Aloush
 - :computer: Software Engineer.
 - :mortar_board: Hold a BS.c. degree in Software Engineering, and a Master’s degree in Applied Mathematics and Informatic.
-- 📫 How to reach me : nemat.aloush@gmail.com, [LinkedIn](https://www.linkedin.com/in/nemat-aloush/)
-- :globe_with_meridians: Check out my [portfolio](https://nemat-allah-aloush.github.io/). 
+- 📫 How to reach me : nemat.aloush@gmail.com, [LinkedIn](https://www.linkedin.com/in/nematal)
+- :globe_with_meridians: Check out my [portfolio](https://nemat-al.github.io/). 
